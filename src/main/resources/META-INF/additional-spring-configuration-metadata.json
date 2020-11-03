@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "sob.blog.image.max-size",
+      "type": "java.lang.String",
+      "description": "Description for sob.blog.image.max-size."
+    },
+    {
+      "name": "sob.blog.image.save-path",
+      "type": "java.lang.String",
+      "description": "Description for sob.blog.image.save-path."
+    }
+  ] }
