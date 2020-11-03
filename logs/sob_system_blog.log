@@ -1,0 +1,17 @@
+[2020/11/03-22:40:24] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 6872 (E:\project\IdeaProject\SobBlogSystem\target\classes started by JinFan in E:\project\Ideaproject\SobBlogSystem)
+[2020/11/03-22:40:24] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/03-22:41:42] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Starting BlogApplication on DESKTOP-G0F80VO with PID 9392 (E:\project\IdeaProject\SobBlogSystem\target\classes started by JinFan in E:\project\Ideaproject\SobBlogSystem)
+[2020/11/03-22:41:42] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : The following profiles are active: dev
+[2020/11/03-22:41:48] [main] [INFO ] [net.sunofbeach.blog.BlogApplication] : Started BlogApplication in 6.51 seconds (JVM running for 7.785)
+[2020/11/03-22:42:17] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>9
+[2020/11/03-22:42:17] [http-nio-2020-exec-1] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 24
+[2020/11/03-22:42:40] [http-nio-2020-exec-3] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : deleteResult of refresh token ===>1
+[2020/11/03-22:45:49] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>0
+[2020/11/03-22:45:49] [http-nio-2020-exec-7] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 4hr5q
+[2020/11/03-22:45:51] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>5
+[2020/11/03-22:45:51] [http-nio-2020-exec-8] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > qs5de
+[2020/11/03-22:45:52] [http-nio-2020-exec-5] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>4
+[2020/11/03-22:45:52] [http-nio-2020-exec-5] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 9mu8t
+[2020/11/03-22:45:53] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha font type ==>6
+[2020/11/03-22:45:53] [http-nio-2020-exec-10] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : captcha content == > 3
+[2020/11/03-22:46:00] [http-nio-2020-exec-2] [INFO ] [net.sunofbeach.blog.services.Impl.UserServicesImpl] : deleteResult of refresh token ===>0
